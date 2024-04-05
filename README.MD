@@ -7,3 +7,9 @@
 ```
 - node <filename.js>
 ```
+
+### How to Run `dart`
+
+```
+- dart run <filename.dart>
+```
