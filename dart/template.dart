@@ -3,6 +3,6 @@ void main() {
   print(resp);
 }
 
-int maxArea(List<int> height) {
+int maxArea(List<int> nums) {
   return -1;
 }
