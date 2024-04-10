@@ -1,7 +1,9 @@
 import 'dart:math' as Math;
 
 void main() {
-  final resp = maxArea([2, 3, 2], 2);
+  // [5,1,1,1] 0
+
+  final resp = maxArea([5, 1, 1, 1], 2);
   print(resp);
 }
 
