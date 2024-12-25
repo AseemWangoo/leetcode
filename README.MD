@@ -13,3 +13,7 @@
 ```
 - dart run <filename.dart>
 ```
+
+### Good Practice Link
+
+- https://leetcode.com/studyplan/top-interview-150/

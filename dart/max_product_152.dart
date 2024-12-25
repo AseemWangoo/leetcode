@@ -5,6 +5,7 @@ void main() {
   print(resp);
 }
 
+// https://youtu.be/Y6B-7ZctiW8
 int maxProduct(List<int> nums) {
   int lP = 1;
   int rP = 1;
